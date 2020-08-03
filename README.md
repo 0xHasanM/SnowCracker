@@ -9,6 +9,6 @@ Snowcracker used to crack Stegsnow passwords
 
 # Usage :
 
-`python3 snowcracker.py -c Y -f flag.txt -w wordlist `
+`python3 snowcracker.py -f flag.txt -w wordlist `
 
 ![alt text](https://github.com/0xMohammed/SnowCracker/blob/master/example.jpeg)
