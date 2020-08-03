@@ -11,4 +11,4 @@ Snowcracker used to crack Stegsnow passwords
 
 `./snowcracker.py -w wordlist -f flag.txt`
 
-![alt text](https://github.com/0xMohammed/SnowCracker/blob/master/Untitled.png)
+![alt text](https://github.com/0xMohammed/SnowCracker/blob/master/example.jpeg)
