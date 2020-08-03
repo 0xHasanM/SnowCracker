@@ -1,14 +1,16 @@
 # SnowCracker
 Snowcracker used to crack Stegsnow passwords
 
-## **Install :**
+# Install :
 
 1. `pip install futures`
 
 2. `git clone https://github.com/0xMohammed/SnowCracker.git`
 
-## **Usage :**
+# Usage :
 
-`./snowcracker.py -w wordlist -f flag.txt`
+`python3 snowcracker.py -c Y -f flag.txt -w wordlist `
+OR
+`python3 snowcracker.py -c N -f flag.txt -w wordlist `
 
 ![alt text](https://github.com/0xMohammed/SnowCracker/blob/master/example.jpeg)
