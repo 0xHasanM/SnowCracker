@@ -9,7 +9,7 @@ Snowcracker used to crack Stegsnow passwords tool can preform decompression on e
 
 # Usage :
 
-* Without decompression `python3 snowcracker.py -f flag.txt -w wordlist `
-* With decompression `python3 snowcracker.py -f flag.txt -w wordlist `
+* Without decompression `python3 snowcracker.py -C N -f flag.txt -w wordlist `
+* With decompression `python3 snowcracker.py -C Y -f flag.txt -w wordlist `
 
 ![alt text](https://github.com/0xMohammed/SnowCracker/blob/master/example.jpeg)
