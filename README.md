@@ -1,5 +1,5 @@
 # SnowCracker
-Snowcracker used to crack Stegsnow passwords
+Snowcracker used to crack Stegsnow passwords tool can preform decompression on extracted data
 
 # Install :
 
@@ -9,6 +9,7 @@ Snowcracker used to crack Stegsnow passwords
 
 # Usage :
 
-`python3 snowcracker.py -f flag.txt -w wordlist `
+* Without decompression `python3 snowcracker.py -f flag.txt -w wordlist `
+* With decompression `python3 snowcracker.py -f flag.txt -w wordlist `
 
 ![alt text](https://github.com/0xMohammed/SnowCracker/blob/master/example.jpeg)
