@@ -60,6 +60,5 @@ def main(argv):
       except:
         continue
 if __name__ == "__main__":
-   main(sys.argv[1:])
    executor = ThreadPoolExecutor(max_workers=10)
-   a = executor.submit(main)
+   a = executor.submit(main(sys.argv[1:]))
